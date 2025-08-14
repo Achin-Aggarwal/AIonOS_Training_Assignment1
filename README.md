@@ -2,9 +2,11 @@
 
 Note :- 
 1. Create the folder named "Resume" in root Folder.
-2. Set Groq API Key
+2. Set the .env file by following steps.
 - Create a .env file in the project root: .env
-- GROQ_API_KEY=your_groq_api_key_here
+- Set the OPENAI_API_KEY
+- Set the LANGCHAIN_API_KEY
+- Set the LANGCHAIN_PROJECT
 
 Steps to run the code :- 
 
