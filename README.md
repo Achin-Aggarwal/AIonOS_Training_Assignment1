@@ -1,5 +1,7 @@
 # AIonOS_Training_Assignment1
 
+Note :- Create the folder named "Resume" in main Folder.
+
 Steps to run the code :- 
 
 Terminal 1 :- 
