@@ -3,7 +3,8 @@
 Note :- 
 1. Create the folder named "Resume" in root Folder.
 2. Set Groq API Key
-Create a .env file in the project root: env GROQ_API_KEY=your_groq_api_key_here
+- Create a .env file in the project root: .env
+- GROQ_API_KEY=your_groq_api_key_here
 
 Steps to run the code :- 
 
